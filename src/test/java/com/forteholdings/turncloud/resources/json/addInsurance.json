@@ -1,0 +1,52 @@
+[{
+	"Company": "Blackbird Insurance",
+	"PolicyNo": "1254",
+	"ID": "456635",
+	"Plan": "Floating",
+	"Plan Program": "Family Insurance",
+	"Effective Date": "05/06/2024",
+	"End Date": "05/06/2025",
+	
+	"Insured Name":"Anagha",
+	"Insured M":"A",
+	"Insured Last":"Gangane",
+	"DOB": "12/19/1991",
+	"Relation": "Self",
+	"Gender": "F",
+	"Insured Mobile":"(904) 966-5568",
+	"Insured Email":"anaghagangane@gmail.com",
+	"Insured Address1":"Add1",
+	"Insured Address2":"Add2",
+	"Insured City":"Pune",
+	"State": "MH",
+	"Insured Zipcode": "75063"
+	
+	
+	
+} ,
+{
+	"Company": "Blue Cross",
+	"PolicyNo": "1254",
+	"ID": "456635",
+	"Plan": "Floating",
+	"Plan Program": "Family Insurance",
+	"Effective Date": "05/06/2024",
+	"End Date": "05/06/2025",
+	
+	"Insured Name":"Anagha",
+	"Insured M":"A",
+	"Insured Last":"Gangane",
+	"DOB": "12/19/1991",
+	"Relation": "Self",
+	"Gender": "F",
+	"Insured Mobile":"(904) 966-5568",
+	"Insured Email":"anaghagangane@gmail.com",
+	"Insured Address1":"Add1",
+	"Insured Address2":"Add2",
+	"Insured City":"Pune",
+	"State": "MH",
+	"Insured Zipcode": "75063"
+	
+	
+	
+}]

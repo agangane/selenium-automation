@@ -1,0 +1,20 @@
+[
+  {
+    "Case Type": "Kaiser Permanente",
+	"Doctor": "Christopher Smith",
+	"Similar Illness Qualifier": "Prescription",
+	"Other Service Facility": "New York Bureau of Emergency Medical Services",
+	"Outside Lab": "Yes",
+	"Patient Condition Related To Accident": "Employment related (EM)",
+	"Illness Qualifier": "484 -last menstrual period",
+	"Accident State" : "AR",
+	"Initial Complaint": "Complaint 1",
+	"Additional Claim Information": "Claim1",
+	"MC Resubmission Code" : "MC 1025" ,
+	"Prior Auth No" : "Auth78" ,
+	"Lab Charges" : "125" ,
+	"MC Reference Number" : "MC4577",
+	"Patient Insurance": ["Blackbird Insurance", "Blackbird Insurance"]
+	
+  
+  }]

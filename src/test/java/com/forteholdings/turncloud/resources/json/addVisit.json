@@ -1,0 +1,37 @@
+[
+  {
+    "Doctors": "Anagha Gangane",
+    "Type": "Exam",
+    "Status": "Completed",
+    "Patient Stated Complaint": "Visit One",
+
+    "Height_ft": "5",
+    "Height_inch": "4",
+    "Weight": "120",
+    "Temperature": "98",
+    "HeartRate": "78",
+    "Respiration": "20",
+    "Oxygen": "97",
+    "Oxygen Concentration": "90",
+    "Potassium": "12",
+
+    "Allergies": [
+      { "Allergy": "Wheat" },
+      { "Allergy": "Dust" },
+      { "Allergy": "Eggs" }
+    ],
+	
+	"Surgeries": [
+	      { "Surgery": "Hip" },
+	      { "Surgery": "Knee" },
+	      { "Surgery": "Cervical Disc" }
+	    ],
+		
+		"Medical History": [
+			      { "medicalhistory": "blood" },
+			      { "medicalhistory": "Fainting" },
+			      { "medicalhistory": "Multiple Sclerosis" }
+			    ]
+	
+  }
+]
